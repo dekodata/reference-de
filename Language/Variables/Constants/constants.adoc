@@ -18,7 +18,7 @@ subCategories: [ "Constants" ]
 [float]
 == Beschreibung
 Konstanten sind vordefinierte Ausdrücke der Arduinosprache. Sie werden benutzt, um Programmcode leichter lesbar zu machen.
-Die Konstanten könnein Gruppen unterteilt werden:
+Die Konstanten können in Gruppen unterteilt werden:
 
 [float]
 == Logische Level: true und false (Booleankonstanten)
